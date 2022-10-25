@@ -19,6 +19,6 @@ ReactDOM.render(
     }}>
         <App />
     </Context.Provider>,
-  document.getElementById('root')
+    document.getElementById('root')
 );
 
